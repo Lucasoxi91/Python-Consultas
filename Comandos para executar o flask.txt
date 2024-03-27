@@ -1,0 +1,7 @@
+C:\Users\User\myproject\ConsultasPy-main
+
+venv\Scripts\activate
+
+set FLASK_APP=app.py
+
+flask run
